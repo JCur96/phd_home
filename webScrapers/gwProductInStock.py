@@ -48,3 +48,4 @@ def check_availability():
 while True:
     check_availability()
     time.sleep(3600)  # Check every hour
+###
